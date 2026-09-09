@@ -1,4 +1,4 @@
-Variables- a Container that stores data. you can
+Variables- # A Container that stores data. you can
 # name you container almost anything you want, so long
 # as it is descriptive 
 
@@ -22,8 +22,8 @@ graduate= True
 
 
 # Class Assignment
- Applenumbermarket=500
-studentsmathclass=32
+# Applenumbermarket=500
+#studentsmathclass=32
 tripinsurance=3000
 membershipprices=500/600/700
 drinksthree=5
