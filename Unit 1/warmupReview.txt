@@ -1,0 +1,10 @@
+ #1 STRING, INTEGERS,FLOATS, BOOLEAN
+
+ #2 A code repository is A digital space for storing files and folders, specifically code. 
+
+ #3 A computer keyboard is and input device, whem you type on a keyboard it inputs data in the system to generate words to write, and search.
+
+ #4 Variable is a container that stores data, almost any data you want to store.
+ As long as its descripitve.
+
+ #5 You have to use the equal sign to store the data.
