@@ -7,4 +7,5 @@
  #4 Variable is a container that stores data, almost any data you want to store.
  As long as its descripitve.
 
- #5 You have to use the equal sign to store the data.
+ #5 You have to use the equal sign to store and the assign it a data type.
+# Whenever the computer see the data word inside it will always use the data inside. 
