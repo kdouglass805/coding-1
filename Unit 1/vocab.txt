@@ -1,4 +1,4 @@
-Github- A website to store,share,manage and host code and computing programs
+    Github- A website to store,share,manage and host code and computing programs
 
 Repository- A digital space for storing files and folders, specifically Code
 

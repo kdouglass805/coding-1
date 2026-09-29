@@ -1,6 +1,6 @@
-Variables- # A Container that stores data. # you can
-# name you container almost anything you want, so long
-# as it is descriptive 
+# Variables - A container that stores data. You can
+# name your container almost anything you want, as long
+# as it is descriptive.
 
 name= "Kaden Douglass"
 yearsofex= 1000
@@ -24,9 +24,9 @@ graduate= True
 # Class Assignment
 # Applenumbermarket=500
 #studentsmathclass=32
-tripinsurance=3000
-membershipprices=500/600/700
-drinksthree=5
+tripinsurance= 3000
+membershipprices = [500, 600, 700]
+drinksthree= 5
 
 #Variable Naming Conventions
 # We used naming conventions because we CANNOT have spaces in
