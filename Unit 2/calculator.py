@@ -17,19 +17,19 @@ def calculate_add():
 
 # subtraction fucntion 
 def calculate_subtract():
-    print("program has strated: please type 2 numbers to subtract")
+    print("program has started: please type 2 numbers to subtract")
     num1 = int(input())
     num2 = int(input())
     print(num1 - num2)
 
-
-#calculate_subtract()
+# Phase 2: Function call- executing code.
+# calculate_subtract()
 
 
 
 # multiplication function
 def calculate_multiplication():
-    print("program has strated: please type 2 numbers to multiply")
+    print("program has started: please type 2 numbers to multiply")
     num1= int(input())
     num2= int(input())
     print(num1 * num2)
