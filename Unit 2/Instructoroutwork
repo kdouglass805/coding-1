@@ -1,0 +1,24 @@
+def vendingMachine():
+    userChoice = "5"
+
+    while userChoice != "Type in number":
+        userChoice = input("Please enter a vending machine number or 5 to quit: ")
+        if userChoice == "B3":
+            print("Nacho Chips")
+        elif userChoice == "G4":
+            print("BBQ Chips")
+        elif userChoice == "G7":
+            print("Plain Chips")
+        elif userChoice == "D3":
+            print("Water")
+        elif userChoice == "G5":
+            print("Cola Soda")
+        elif userChoice == "q":
+            print("Thank you!")
+        else:
+            print("Invalid number. Please try again.")
+
+vendingMachine()
+
+
+#this autocorrect keeps making me do this if and elif but if delete it makes everything an error. For the most part it works tho
