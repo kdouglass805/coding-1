@@ -50,3 +50,46 @@ def dice_game():
 
 
 
+
+
+
+
+def game():
+    player_score = 0
+    cpu_score = 0
+    rounds = 0
+
+    while rounds < 3:
+        player = input("Choose r, p, s, or q: ")
+
+        if player == "q":
+            break
+
+        if player not in ["r", "p", "s"]:
+            print("Invalid choice!")
+            continue
+
+        cpu = ["r", "p", "s"][randint(0, 2)]
+        print("Computer chose:", cpu)
+
+        if player == cpu:
+            print("Tie!")
+        elif (player == "r" and cpu == "s") or \
+             (player == "p" and cpu == "r") or \
+             (player == "s" and cpu == "p"):
+            print("You win!")
+            player_score += 1
+        else:
+            print("Computer wins!")
+            cpu_score += 1
+
+        rounds += 1
+
+    print("Your score:", player_score)
+    print("Computer score:", cpu_score)
+
+game()
+
+
+
+
