@@ -1,0 +1,27 @@
+I want to create a retro basketball game with physics like retro bowl. The objective of the game is
+# to win games, go to champions ships, increase salary, and hire anf fire staff, coaches, and trade players.
+# And also send them to free agency, increase attriubtes.
+
+A and D is to move left and right, W and s is to move up and down. If you double click
+# these buttons you can perform crossovers and moves. Space is to shoot, and time it like 2k. The mouse is used to press play exit out and navigate like usual. 
+# Z,X,C,V,B are also special moves to create cross overs and ankle breakers.
+# And lastly Q is used to steal the ball, E is used to block.
+
+I want to create a retro basketball game with physics like retro bowl. The objective of the game is
+# to win games, go to champions ships, increase salary, and hire anf fire staff, coaches, and trade players.
+# And also send them to free agency, increase attriubtes.
+
+A and D is to move left and right, W and s is to move up and down. If you double click
+# these buttons you can perform crossovers and moves. Space is to shoot, and time it like 2k. The mouse is used to press play exit out and navigate like usual. 
+# Z,X,C,V,B are also special moves to create cross overs and ankle breakers.
+# And lastly Q is used to steal the ball, E is used to block.
+
+
+# Regular 24 second shot clock, or you can set it to whatever time you want. Adjustable quaters, and vintage game audio style.
+# You can here the players communicate, the ball bounces, the net swishing. 
+# You can get fouled and go to the free throw line.
+
+#There is violations and out of bounds. And techs if you foul intentionaly.
+
+# As you continute to win games, you can rank up to all star games, championships, and cups.
+
